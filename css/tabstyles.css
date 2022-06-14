@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+ }
+
+ header {
+ color:whitesmoke
+ } 
+
+ @media (min-width: 992px) {
+        .intro .intro-img 
+          width: 75%;
+          float: right;
+        }
+ 
+    .intro .intro-img {
+      width: 75%;
+      float: right;
+    }
+
+    /* width */
+::-webkit-scrollbar {
+    width: 20px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: blue;
+    border-radius: 10px;
+  }
+
+  p.dotted {border-style: dotted;}

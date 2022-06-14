@@ -1,0 +1,74 @@
+.site-heading-lower {
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+}
+.section-heading-upper {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.new-style {
+    color: rgb(178, 224, 250);
+}
+.navbar-light .navbar-brand {
+    color: rgba(130, 199, 238, 0.9);}
+
+
+    .alert-primary {
+        color: 	#F0F8FF;
+        background-color: #faeddd;
+        border-color: #F0F8FF;
+      }
+      .alert-primary .alert-link {
+        color: 	#F0F8FF;
+      }
+
+      .graphstuff
+      {
+          position: relative;
+          left: 40px;
+          right: 40px;
+          height:80px;
+          width: 80px;
+      }
+
+      #mainNav .navbar-brand {
+        color: #F0F8FF;
+      }
+
+      
+      #mainNav .navbar-brand {
+        color: #F0F8FF;
+      }
+
+      .footer {
+        background-color: #F0F8FF;
+      }
+
+      .body {
+        background: color #f0f0f0
+      }
+
+      #mainNav .navbar-nav .nav-item .nav-link {
+        color: #fff
+        font-weight:800;
+
+    }
+    .cta .cta-inner:before {
+      border-radius: 1 rem;
+      content: "";
+      position: absolute;
+      top: -1rem;
+      bottom: -1rem;
+      left: -1rem;
+      right: -1rem;
+      border: 0.50rem solid #feffff;
+      z-index: -1;
+    }
+
+    .btn-primary {
+        color: #000;
+        background-color: #c0f4ff;
+        border-color: #48c7ec;
+      }
